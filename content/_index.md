@@ -12,6 +12,12 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
